@@ -67,7 +67,7 @@ pylint==1.8.2
 pyslack-real==0.6.0
 python-dateutil==2.6.0
 python-magic==0.4.15
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==16.0.2
 qtconsole==4.3.0
 readlike==0.1.2
