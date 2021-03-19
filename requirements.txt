@@ -32,7 +32,7 @@ ipywidgets==6.0.0
 isort==4.3.3
 jaraco.itertools==2.1
 jedi==0.10.2
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonrpclib-pelix==0.3.1
 jsonschema==2.6.0
 jupyter==1.0.0
