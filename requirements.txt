@@ -74,7 +74,7 @@ readlike==0.1.2
 ReParser==1.4.3
 requests==2.20.0
 requests-oauthlib==0.8.0
-rsa==3.4.2
+rsa==4.1
 selenium==3.9.0
 simplegeneric==0.8.1
 simplejson==3.13.2
